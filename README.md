@@ -1,2 +1,8 @@
-# physics-animations
-Shows how to create some animations in C# using svg format to gif
+# Physics animations
+
+**Animations**:
+- dipole
+- dipole and water molecule
+- standing wave
+- standing wave created by two smaller waves
+- microwave
