@@ -1,0 +1,45 @@
+F:\Visual Studio\Visual Studio 2017\Fiz\Fiz\bin\Debug\Fiz.exe.config
+F:\Visual Studio\Visual Studio 2017\Fiz\Fiz\bin\Debug\Fiz.exe
+F:\Visual Studio\Visual Studio 2017\Fiz\Fiz\bin\Debug\Fiz.pdb
+F:\Visual Studio\Visual Studio 2017\Fiz\Fiz\obj\Debug\Fiz.csprojAssemblyReference.cache
+F:\Visual Studio\Visual Studio 2017\Fiz\Fiz\obj\Debug\MainWindow.g.cs
+F:\Visual Studio\Visual Studio 2017\Fiz\Fiz\obj\Debug\App.g.cs
+F:\Visual Studio\Visual Studio 2017\Fiz\Fiz\obj\Debug\Fiz_MarkupCompile.cache
+F:\Visual Studio\Visual Studio 2017\Fiz\Fiz\obj\Debug\Fiz_MarkupCompile.lref
+F:\Visual Studio\Visual Studio 2017\Fiz\Fiz\obj\Debug\MainWindow.baml
+F:\Visual Studio\Visual Studio 2017\Fiz\Fiz\obj\Debug\Fiz.g.resources
+F:\Visual Studio\Visual Studio 2017\Fiz\Fiz\obj\Debug\Fiz.Properties.Resources.resources
+F:\Visual Studio\Visual Studio 2017\Fiz\Fiz\obj\Debug\Fiz.csproj.GenerateResource.cache
+F:\Visual Studio\Visual Studio 2017\Fiz\Fiz\obj\Debug\Fiz.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Visual Studio 2017\Fiz\Fiz\obj\Debug\Fiz.exe
+F:\Visual Studio\Visual Studio 2017\Fiz\Fiz\obj\Debug\Fiz.pdb
+F:\Visual Studio\Visual Studio 2017\Fiz2\Fiz2\bin\Debug\Fiz.exe.config
+F:\Visual Studio\Visual Studio 2017\Fiz2\Fiz2\bin\Debug\Fiz.exe
+F:\Visual Studio\Visual Studio 2017\Fiz2\Fiz2\bin\Debug\Fiz.pdb
+F:\Visual Studio\Visual Studio 2017\Fiz2\Fiz2\obj\Debug\Fiz.csprojAssemblyReference.cache
+F:\Visual Studio\Visual Studio 2017\Fiz2\Fiz2\obj\Debug\MainWindow.g.cs
+F:\Visual Studio\Visual Studio 2017\Fiz2\Fiz2\obj\Debug\App.g.cs
+F:\Visual Studio\Visual Studio 2017\Fiz2\Fiz2\obj\Debug\Fiz_MarkupCompile.cache
+F:\Visual Studio\Visual Studio 2017\Fiz2\Fiz2\obj\Debug\Fiz_MarkupCompile.lref
+F:\Visual Studio\Visual Studio 2017\Fiz2\Fiz2\obj\Debug\MainWindow.baml
+F:\Visual Studio\Visual Studio 2017\Fiz2\Fiz2\obj\Debug\Fiz.g.resources
+F:\Visual Studio\Visual Studio 2017\Fiz2\Fiz2\obj\Debug\Fiz.Properties.Resources.resources
+F:\Visual Studio\Visual Studio 2017\Fiz2\Fiz2\obj\Debug\Fiz.csproj.GenerateResource.cache
+F:\Visual Studio\Visual Studio 2017\Fiz2\Fiz2\obj\Debug\Fiz.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Visual Studio 2017\Fiz2\Fiz2\obj\Debug\Fiz.exe
+F:\Visual Studio\Visual Studio 2017\Fiz2\Fiz2\obj\Debug\Fiz.pdb
+D:\Desktop\Helena\!!!SZKOŁA\!Studia\1 rok 2 sem\Fizyka\Animacja na fizykę\Fiz\Fiz2\Fiz2\bin\Debug\Fiz.exe.config
+D:\Desktop\Helena\!!!SZKOŁA\!Studia\1 rok 2 sem\Fizyka\Animacja na fizykę\Fiz\Fiz2\Fiz2\bin\Debug\Fiz.exe
+D:\Desktop\Helena\!!!SZKOŁA\!Studia\1 rok 2 sem\Fizyka\Animacja na fizykę\Fiz\Fiz2\Fiz2\bin\Debug\Fiz.pdb
+D:\Desktop\Helena\!!!SZKOŁA\!Studia\1 rok 2 sem\Fizyka\Animacja na fizykę\Fiz\Fiz2\Fiz2\obj\Debug\Fiz.csprojAssemblyReference.cache
+D:\Desktop\Helena\!!!SZKOŁA\!Studia\1 rok 2 sem\Fizyka\Animacja na fizykę\Fiz\Fiz2\Fiz2\obj\Debug\MainWindow.g.cs
+D:\Desktop\Helena\!!!SZKOŁA\!Studia\1 rok 2 sem\Fizyka\Animacja na fizykę\Fiz\Fiz2\Fiz2\obj\Debug\App.g.cs
+D:\Desktop\Helena\!!!SZKOŁA\!Studia\1 rok 2 sem\Fizyka\Animacja na fizykę\Fiz\Fiz2\Fiz2\obj\Debug\Fiz_MarkupCompile.cache
+D:\Desktop\Helena\!!!SZKOŁA\!Studia\1 rok 2 sem\Fizyka\Animacja na fizykę\Fiz\Fiz2\Fiz2\obj\Debug\Fiz_MarkupCompile.lref
+D:\Desktop\Helena\!!!SZKOŁA\!Studia\1 rok 2 sem\Fizyka\Animacja na fizykę\Fiz\Fiz2\Fiz2\obj\Debug\MainWindow.baml
+D:\Desktop\Helena\!!!SZKOŁA\!Studia\1 rok 2 sem\Fizyka\Animacja na fizykę\Fiz\Fiz2\Fiz2\obj\Debug\Fiz.g.resources
+D:\Desktop\Helena\!!!SZKOŁA\!Studia\1 rok 2 sem\Fizyka\Animacja na fizykę\Fiz\Fiz2\Fiz2\obj\Debug\Fiz.Properties.Resources.resources
+D:\Desktop\Helena\!!!SZKOŁA\!Studia\1 rok 2 sem\Fizyka\Animacja na fizykę\Fiz\Fiz2\Fiz2\obj\Debug\Fiz.csproj.GenerateResource.cache
+D:\Desktop\Helena\!!!SZKOŁA\!Studia\1 rok 2 sem\Fizyka\Animacja na fizykę\Fiz\Fiz2\Fiz2\obj\Debug\Fiz.csproj.CoreCompileInputs.cache
+D:\Desktop\Helena\!!!SZKOŁA\!Studia\1 rok 2 sem\Fizyka\Animacja na fizykę\Fiz\Fiz2\Fiz2\obj\Debug\Fiz.exe
+D:\Desktop\Helena\!!!SZKOŁA\!Studia\1 rok 2 sem\Fizyka\Animacja na fizykę\Fiz\Fiz2\Fiz2\obj\Debug\Fiz.pdb
