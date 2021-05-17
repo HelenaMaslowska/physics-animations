@@ -7,5 +7,7 @@
 - standing wave created by two smaller waves
 - microwave
 
+
+
 **Code**
 - the code is [>here<](https://github.com/HelenaMaslowska/physics-animations/blob/main/Fiz2/MainWindow.xaml.cs)
