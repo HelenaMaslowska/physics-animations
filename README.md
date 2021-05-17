@@ -10,4 +10,4 @@
 
 
 **Code**
-- the code is [>here<](https://github.com/HelenaMaslowska/physics-animations/blob/main/Fiz2/MainWindow.xaml.cs)
+- the source code is [>here<](https://github.com/HelenaMaslowska/physics-animations/blob/main/Fiz2/MainWindow.xaml.cs)
