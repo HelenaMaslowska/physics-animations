@@ -263,15 +263,14 @@ namespace Fiz
             {
                 graph3 = new Graph(GridBox, samplesCount, Brushes.Black, xAxisRange,!enableSorceWaves);//Yellow
 
-                //if (enableVectorsOfEletricalForce)
-                //{              
-                //    float sh = (float)(GridBox.Width / (waveCycles * 2));
-                //    arrows = new Arrow[waveCycles];
+                if (enableVectorsOfEletricalForce)
+                {
+                    float sh = (float)(GridBox.Width / (waveCycles * 2));
+                    arrows = new Arrow[waveCycles];
 
-                //    for (int i = 0; i < waveCycles; i++)
-                //        arrows[i] = new Arrow(GridBox, (float)((GridBox.Width / waveCycles) * i) + sh, (float)graph3.zeroLine, 0, 2, Brushes.BlueViolet);
-                //}
-
+                    for (int i = 0; i < waveCycles; i++)
+                        arrows[i] = new Arrow(GridBox, (float)((GridBox.Width / waveCycles) * i) + sh, (float)graph3.zeroLine, 0, 2, Brushes.BlueViolet);
+                }
             }
 
             DispatcherTimer dispatcherTimer = new DispatcherTimer();
@@ -297,15 +296,15 @@ namespace Fiz
            {
                 graph3.GenGraph( (x) => (Math.Sin(x + Tscaled) / 2) + (-(Math.Sin(x + TscaledRevrse)) / 2), 0);
 
-                //if (enableVectorsOfEletricalForce)
-                //{                 
-                //    for (int i = 0; i < waveCycles; i++)
-                //    {
-                //        arrows[i].Hegiht = (float)graph3.samplesArray[(samplesCount / (waveCycles * 2)) + (samplesCount / waveCycles) * i] - (float)(2 * graph3.scaleY);
-                //        if (arrows[i].Hegiht > 0) arrows[i].Hegiht -= 1; else arrows[i].Hegiht += 1;
-                //    }
-                //}
-           }
+                if (enableVectorsOfEletricalForce)
+                {
+                    for (int i = 0; i < waveCycles; i++)
+                    {
+                        arrows[i].Hegiht = (float)graph3.samplesArray[(samplesCount / (waveCycles * 2)) + (samplesCount / waveCycles) * i] - (float)(2 * graph3.scaleY);
+                        if (arrows[i].Hegiht > 0) arrows[i].Hegiht -= 1; else arrows[i].Hegiht += 1;
+                    }
+                }
+            }
 
             if (enableSavingSvgFrames)
             {
@@ -319,18 +318,13 @@ namespace Fiz
                     {
                         for (int i = 0; i <= waveCycles; i++)
                             myGrf.DrawCircle((float)((GridBox.Width / waveCycles) * i) + horizotnalMargin, (float)graph3.zeroLine - 50, 5, Colors.Red);
-
                     }
-                   
 
                     myGrf.SaveSvg($"{saveDirLocation}/{T.ToString("000")}frame.svg", (int)GridBox.Height, (int)GridBox.Width + (horizotnalMargin*2));
                     // myGrf.SaveSvg("MyFirstSvgGenrated.svg");
-
                 }
             }
-         
             T++;
-  
         }
     }
 }
