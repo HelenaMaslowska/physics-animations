@@ -3,9 +3,9 @@
 **Animations** [>click here<](https://github.com/HelenaMaslowska/physics-animations/tree/main/All%20animations):
 - [dipole](https://github.com/HelenaMaslowska/physics-animations/blob/main/All%20animations/dipole.gif)
 - [dipole and water molecule](https://github.com/HelenaMaslowska/physics-animations/blob/main/All%20animations/dipole%20and%20water.gif)
-- [standing wave](https://github.com/HelenaMaslowska/physics-animations/blob/main/All%20animations/standing%20wave.gif) 
-- [standing wave created by two smaller waves](https://github.com/HelenaMaslowska/physics-animations/blob/main/All%20animations/standing%20wave%20created%20by%20two%20smaller%20waves.gif)
-- microwave
+- [standing wave created by two smaller waves (in dark theme you will not see gif, there is transparent background)](https://github.com/HelenaMaslowska/physics-animations/blob/main/All%20animations/standing%20wave%20created%20by%20two%20smaller%20waves.gif)
+- [standing wave (same as last gif)](https://github.com/HelenaMaslowska/physics-animations/blob/main/All%20animations/standing%20wave.gif) 
+- [water dipoles driven by a standing wave (same here)](https://github.com/HelenaMaslowska/physics-animations/blob/main/All%20animations/water%20dipoles%20driven%20by%20a%20standing%20wave.gif)
 
 
 
