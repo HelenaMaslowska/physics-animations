@@ -9,3 +9,7 @@
 
 **Code**
 - the source code is [here](https://github.com/HelenaMaslowska/physics-animations/blob/main/Fiz2/MainWindow.xaml.cs)
+
+## Authors
+- Łukasz Lewandowski
+- [Helena Masłowska](https://github.com/HelenaMaslowska)
